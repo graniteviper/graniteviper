@@ -1,70 +1,151 @@
-# 👋 Hey, I'm Tanishq Sharma
+# Hi there 👋, I'm Tanishq Sharma
 
-💻 **Full Stack Developer | Rust & React Enthusiast | DSA Practitioner**
+### Full Stack Developer • Rust Enthusiast • Competitive Programmer
 
-I'm passionate about **building performant systems** and **solving algorithmic challenges**.  
-After completing **Striver’s A2Z DSA Sheet**, I now practice **advanced DSA** daily to stay sharp.  
-I love combining low-level performance (Rust) with modern UI (Next.js & React).
+I enjoy building performant software, scalable backend systems, and developer-focused tools.
 
----
+Currently focused on:
 
-### 🚀 What I'm Up To
-- 🌱 Currently exploring **advanced algorithms** beyond A2Z.
-- 🔭 Building side projects in **Rust**, **Next.js**, and **Node.js**.
-- ⚙️ Strengthening backend design with **PostgreSQL**, **auth**, and **deployment**.
-- 🧠 Practicing **competitive programming** on LeetCode and Codeforces.
+* ⚡ Systems Programming with Rust
+* 🌐 Full Stack Development with Next.js & TypeScript
+* 🧠 Advanced Data Structures & Algorithms
+* 🔒 Cybersecurity Visualization & Threat Intelligence
+* 🚀 Open Source Contributions
 
 ---
 
-### 🧰 Tech Stack
+## About Me
 
-#### 💻 Languages
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+```cpp
+class TanishqSharma {
+public:
+    string role = "Software Engineer";
+    vector<string> languages = {
+        "C++", "Rust", "TypeScript", "JavaScript"
+    };
 
-#### ⚙️ Frameworks & Tools
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
+    vector<string> interests = {
+        "Systems Programming",
+        "Backend Engineering",
+        "Distributed Systems",
+        "Cyber Security",
+        "Competitive Programming"
+    };
 
----
-
-### 🧠 DSA & Competitive Programming Profiles
-
-#### 🟠 LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/Graniteviper?theme=dark&font=Karma&ext=contest)
-
-#### 🔵 Codeforces
-[![Codeforces Profile](https://cf.leed.at?id=tanishqsharma)](https://codeforces.com/profile/graniteiper101)
+    string currentFocus =
+        "Building impactful products while mastering advanced DSA";
+};
+```
 
 ---
 
-### 📊 GitHub Activity
+## Tech Stack
 
-![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=graniteviper&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graniteviper&layout=compact&theme=tokyonight&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=graniteviper&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,rust,ts,js" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,docker" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
 
 ---
 
-### 🧩 Contribution Graph
+## Featured Projects
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/graniteviper/graniteviper/output/github-contribution-grid-snake.svg)
+### HoneyMap
+
+Cyber threat intelligence visualization platform.
+
+* Real-time attack monitoring
+* HoneyLabs integration
+* Geographic attack visualization
+* Threat categorization
+* Interactive security dashboard
+
+**Tech:** Rust, Next.js, TypeScript, PostgreSQL
 
 ---
 
-### 📬 Let's Connect
+### Full Stack Applications
 
-[![LinkedIn](https://img.shields.io/badge/-Tanishq_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanishq-sharma)
-[![GitHub](https://img.shields.io/badge/-tanishq--sharma-181717?style=for-the-badge&logo=github)](https://github.com/graniteviper)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Graniteviper)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/graniteviper101)
+Building production-ready applications with:
+
+* Authentication & Authorization
+* PostgreSQL
+* REST APIs
+* Docker Deployment
+* Modern UI/UX
 
 ---
 
-🧠 *“Consistency beats intensity — one advanced concept a day keeps stagnation away.”*
+## Competitive Programming
+
+### Data Structures & Algorithms
+
+* Completed Striver's A2Z DSA Sheet
+* Daily advanced DSA practice
+* Strong focus on Graphs, DP, Trees, and Advanced Techniques
+* Active on LeetCode and Codeforces
+
+### Profiles
+
+* 🔗 LeetCode: https://leetcode.com/Graniteviper
+* 🔗 Codeforces: https://codeforces.com/profile/graniteviper101
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=graniteviper&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graniteviper&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=graniteviper&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## Current Goals
+
+* 📚 Master Advanced DSA & Competitive Programming
+* 🦀 Build larger systems in Rust
+* 🚀 Contribute to impactful Open Source projects
+* 🏗️ Deepen Backend & System Design knowledge
+* 🎯 Secure top software engineering opportunities
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="https://github.com/graniteviper">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+
+  <a href="https://linkedin.com/in/tanishq-sharma">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+</p>
+
+---
+
+> "Consistency compounds. One difficult problem solved today becomes intuition tomorrow."
